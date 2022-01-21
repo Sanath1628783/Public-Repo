@@ -1,0 +1,49 @@
+Continuous Integration
+
+Which is NOT true about continuous integration ? - ***Involves moving code in large amounts
+
+Which is NOT a benefit of CI ? - The integration process is faster - ***Bugs and defects no longer occur
+
+Which is not a CI practice ? - ***Deploy to production
+ 
+Work Branch is also known as_.  - ***Codeline
+
+Release branches are created for resolving merge conflicts.- ***False
+
+Activities that are part of continuous integration. - ***All of the Options
+
+Git is a _ version control system. - ***Distributed
+
+Feature branching is used to _. -  ***Work on user stories
+
+Private builds are executed after moving the changes to version control. - ***False
+
+Release builds can be triggered _ - ***On-demand
+
+Capablility of your build system to handle an increase in the amount of code that it integrates and analyzes is known as . - ***Build scalability
+
+Pipeline break and build break is one and the same. - ***False
+
+Complexity of a code is determined based on ___ - ***Cyclomatic Complexity Number
+
+__ is a .Net build tool. - ***NAnt
+
+Build can be triggered by a version control tool. - ***True
+
+Time taken to fix a broken build is measured using __. - ***Build repair rate
+
+Git, Mercurial and Subversion are centralized version control tools. - ***False
+
+Select a CI tool based on it's ___. - Both the options - Extenability
+
+Private builds can be triggered automatically. - True
+
+Feature toggle can be used in the following scenarios . - All of the options
+
+Jabber is a : - Messaging plugin
+
+Practice of developers integrating changes directly in the feature or work branches and commiting the changes at the end to the mainline is known as _. - Continuous Integration
+
+Does CI pipeline need to have all the software development functionalities integrated in place ? - False
+
+Teamcity is a . - ***Build Scheduler
